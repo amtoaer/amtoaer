@@ -10,7 +10,7 @@
     </h3>
 </div>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amtoaer&hide_border=true&theme=buefy">
+   <img src="https://github-readme-stats.jeasonlau.vercel.app/api/wakatime?username=amtoaer&hide_border=true&theme=buefy&count=5">
 </div>
 <div align="center">
     <h3>
