@@ -7,7 +7,7 @@
 
 <p align="center">🏫 studying at Northeastern University, China</p>
 <p align="center">📺 like watching anime</p>
-<p align="center">📚 learning golang & java</p>
+<p align="center">📚 learning golang</p>
 
 <div align="center">
     <h3>
