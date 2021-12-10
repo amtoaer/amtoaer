@@ -1,7 +1,7 @@
 <div align="center"><h2>Hi there, I'm amtoaer! 👋</h2></div>
 
 <p align="center">
-<img src="https://shields.io/badge/OS-Arch%20Linux-blue?logo=arch-linux&style=for-the-badge">
+<img src="https://shields.io/badge/OS-Windows%2011-blue?logo=Windows&style=for-the-badge">
 <img src="https://shields.io/badge/EDITOR-vscode-red?logo=visual-studio-code&style=for-the-badge">
 </p>
 
